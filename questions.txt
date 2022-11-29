@@ -1,0 +1,5 @@
+1. Strings only contain one variable (or index) of alphanumeric characters, while tables contain
+   multiple.
+2. The color changes, the size changes, and the user names.
+3. Used loops when updating the timer, when tracking mouse movments, and just about every 3rd
+   line in the leaderboard module.
